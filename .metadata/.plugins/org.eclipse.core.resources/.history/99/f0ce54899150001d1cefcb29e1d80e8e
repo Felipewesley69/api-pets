@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:postgresql://localhost:15432/pets
+spring.datasource.username=postgres
+spring.datasource.password=ENC(Bk2C/tvjTHHsPcpKCZtxZjcOuTth3z/v)
+spring.datasource.driver-class-name=org.postgresql.Driver
